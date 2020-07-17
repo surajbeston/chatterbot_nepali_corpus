@@ -1,7 +1,7 @@
 # chatterbot_nepali_corpus
 ## Nepali translated default training corpus for Python Chatterbot.
 #### googletrans python package has been used to translate all those default english words.
-#### You can use this to initially train your chatterbot to perform in nepali. Steps:
+#### You can use this to initially train your chatterbot to perform in nepali.
 
 #### Steps to initiate the training:
 <ul>
